@@ -1,4 +1,4 @@
-### Software developer with a passion for design, photography and sustainable fashion 🤞
+### Software developer with a passion for design, photography and sustainable fashion 🦋
 
 <!--
 **annagustavsson/annagustavsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
