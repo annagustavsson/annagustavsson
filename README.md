@@ -1,5 +1,7 @@
 ### Software developer with a passion for design, photography and sustainable fashion 🦖
 
+Currently a M.Sc. student in Interactive Media Technology at KTH Royal Institute of Technology
+
 <!--
 **annagustavsson/annagustavsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
