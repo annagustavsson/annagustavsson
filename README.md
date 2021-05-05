@@ -7,8 +7,8 @@ Python | JavaScript | React.js | CSS
 - 🌱 I'm currently working on developing an online tech-porfolio. Using Typescript, React and SCSS. 
 
 ## Get in touch ##
-www.linkedin.com/in/gustavssonanna/
-annalovisaellen@gmail.com
+- www.linkedin.com/in/gustavssonanna/
+- annalovisaellen@gmail.com
 <!--
 **annagustavsson/annagustavsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
