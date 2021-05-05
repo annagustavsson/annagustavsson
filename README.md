@@ -1,5 +1,6 @@
-##  ##
+
 ### Hi there. I'm Anna, a software developer with a passion for creating good design and unforgettable experiences 🦖 ###
+##  ##
 ## Top Skills ## 
 Python | JavaScript | React.js | CSS
 
