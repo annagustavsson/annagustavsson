@@ -1,9 +1,9 @@
 ### Hi there. I'm Anna, a software developer with a passion for creating good design and unforgetable experiences 🦖
-## Top Skills: ## 
-💻 Python
-💻 JavaScript 
-💻 React.js
-💻 CSS
+## Top Skills ## 
+- 💻 Python
+- 💻 JavaScript 
+- 💻 React.js
+- 💻 CSS
 
 
 - 📚 I'm pursuing my M.Sc. degree in Interactive Media Technology, at KTH Royal Institute of Technology. (Graduation june 2022) 
