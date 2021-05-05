@@ -3,7 +3,7 @@
 Python | JavaScript | React.js | CSS
 
 ## What I'm doing ##
-- 📚 I'm pursuing my M.Sc. degree in Interactive Media Technology, at KTH Royal Institute of Technology. (Graduation june 2022) 
+- 📚 I'm pursuing a M.Sc. degree in Interactive Media Technology, at KTH Royal Institute of Technology. (Graduation june 2022) 
 - 🌱 I'm currently working on developing an online tech-porfolio. Using Typescript, React and SCSS. 
 
 ## Get in touch ##
